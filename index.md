@@ -55,3 +55,96 @@ Separate programs. Third party coaches may conduct activities on site. Such an a
 Each customer in E1A accepted a private facility rental at the listed original charge and scheduled date. The entire population uses the same lessor and standard terms above. None of these original contracts transfers the facility charge to another operator or includes a separately priced coaching service. Subsequent approvals, where present, are maintained separately from the original contract register.
 
 For this simulation, the register and common contract extracts replace repetitive copies of 24 contracts. They establish the contractual terms for each booking ID. They do not show whether a particular event subsequently occurred or how its payment was handled.
+
+
+---
+
+# Approvals and Cancellation Correspondence
+
+**E5   \|   Baseline version 1   \|   All amounts in US dollars**
+
+Fictional teaching exhibit. Names, records, dates, and communications are simulated. All dates are in 2026 unless stated otherwise.
+
+## **E5A Written discount approval for R04**
+
+**July 8, 2026 \| Daniel Mercer to Evan Parker and Rachel Kim \| Subject: Oakview School R04**
+
+“I approve a \$500 school discount on the \$2,600 facility charge for the July 13 booking. Collect \$2,100 for Riverside Activity Center LLC and retain this approval with the rental file. This approval applies only to R04.”
+
+## **E5B Customer cancellation and owner approval for R07**
+
+**July 22, 2026 \| Pinecrest League to Evan Parker \| Subject: July 25 rental R07**
+
+“We are cancelling our July 25 facility rental. We have not paid the \$2,400 charge and will not use the reserved space. Please confirm the cancellation.”
+
+**July 23, 2026 \| Daniel Mercer to Evan Parker and Rachel Kim \| Subject: R07 cancellation**
+
+“I approve cancellation of R07 and reversal of the \$2,400 charge without collecting a cancellation fee. Retain the customer’s message and this approval with the booking.”
+
+## **E5C Written credit approval for R11**
+
+**August 7, 2026 \| Daniel Mercer to Evan Parker and Rachel Kim \| Subject: Meadow School R11**
+
+“I approve payment after the August 10 event for Meadow School’s \$2,200 facility rental. Keep the \$2,200 on the collection schedule until paid and follow up with the school. The rental charge is not waived.”
+
+## **E5D Written discount approval for R12**
+
+**August 11, 2026 \| Daniel Mercer to Evan Parker and Rachel Kim \| Subject: Community Access Club R12**
+
+“I approve a \$300 community access discount on the \$2,400 charge for the August 14 rental. Collect \$2,100 for Riverside Activity Center LLC. This approval applies only to R12.”
+
+## **E5E Approval file completeness**
+
+Daniel supplied these four approval records for the selected population. He reports that he signed no agreement transferring these facility rental collections to an employee or separate operator and approved no additional waived charges or discounts for the selected bookings. This statement describes his authorizations; it does not identify the recipient of any customer payment.
+
+
+---
+
+
+# Owner Reports and Rental Policy
+
+**E8   \|   Baseline version 1   \|   All amounts in US dollars**
+
+Fictional teaching exhibit. Names, records, dates, and communications are simulated. All dates are in 2026 unless stated otherwise.
+
+## **E8A Monthly rental receipt reports**
+
+Source: monthly reports prepared by Rachel Kim and sent to Daniel Mercer. These figures cover only the selected private rental stream. “Receipts” includes a customer check received but not yet deposited. The reports are not accrual income statements.
+
+| Reporting month | Recorded rental receipts | Bank rental credits | Checks held at month end | Open collection balance |
+| :---- | ----: | ----: | ----: | ----: |
+| July | \$12,100 | \$12,100 | \$0 | \$0 |
+| August | \$15,500 | \$15,500 | \$0 | \$2,200 |
+| September | \$18,800 | \$15,600 | \$3,200 | \$2,200 |
+
+Open collection balance is a month end balance, not a monthly flow. The September balance includes the same R11 amount carried at August 31\. Report totals and the following notes reproduce management’s accounting presentation.
+
+July note: “Cancelled bookings and outside programs excluded per operations exception file. School discount reflected. Bank rental credits match recorded receipts.”
+
+August note: “Meadow School \$2,200 remains on approved credit. Community discount reflected. Other exceptions entered from operations file.”
+
+September note: “Fairview League \$3,200 check recorded September 30 and awaiting deposit. Meadow balance remains unpaid. Cancellation and outside program exceptions entered per operations.”
+
+## **E8B Owner review practice**
+
+Daniel reviews these summaries remotely and visits the facility about twice a month. He assumes Rachel checks support for Evan’s exceptions. Rachel assumes Evan has obtained the approvals. No reviewer sign off documents a comparison of the reports with the attendant log or independent customer payments. Booking administration uses the shared RIVERBOOK login.
+
+# **Rental administration policy**
+
+## **E8C Policy in force for the selected period**
+
+Company: Riverside Activity Center LLC. The following policy applies to private facility rentals during July through September 2026\. It does not cover memberships or company operated activities.
+
+Contracts and payment. Evan issues a company contract for each private rental. Rental charges belong to Riverside Activity Center LLC and are payable to it. Full payment is normally required before the event. Rachel records company receipts and maintains the collection schedule.
+
+Written approvals. Daniel must approve in writing any discount, credit arrangement, cancellation waiving a rental charge, or outside operating arrangement affecting company rental income. Retain the approval with the booking. A booking classification or instruction from an employee does not replace the owner’s written authorization.
+
+Third party activities. A coach or outside organizer may operate an activity at Riverside. The facility rental charge remains due to the company unless Daniel signs a separate operating agreement specifying a different entitlement.
+
+Accounting and reporting. Rachel prepares the company bank reconciliation and rental receipts reports. A separate schedule carries unpaid rental balances. Checks received and awaiting deposit remain included in recorded receipts.
+
+Owner review. Daniel reviews monthly results and exceptions. Evan supplies operational classifications and Rachel supplies the accounting summary. The paragraphs above reproduce the policy provisions relevant to this review.
+
+## **E8D System access and operational records**
+
+The booking system uses a shared login available to Evan and Rachel. Individual edit attribution is unavailable. The facility attendant keeps a separate record of reserved space usage. During the period, that log was not routinely matched to the booking classifications, cashbook, or owner report.
